@@ -1,3 +1,7 @@
+/*
+   Templates
+*/
+
 package main
 
 import (
